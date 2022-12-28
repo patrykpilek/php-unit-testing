@@ -18,7 +18,7 @@
   - [Composer autoloading](https://getcomposer.org/doc/04-schema.md#autoload)
   - autoload classes being tested using Composer
 - [ ] Test dependencies, fixtures and exceptions
-
+  - unit test a queue class
 - [ ] Test doubles: mocks and stubs
 
 - [ ] Mockery - an alternative mocking framework with a human-readable syntax
