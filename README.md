@@ -9,6 +9,7 @@
   - [List of PHPUnit assertions](https://phpunit.readthedocs.io/en/9.5/assertions.html?highlight=assertions)
   - test that incorrect results are not returned: using multiple test methods
   - test a class: fixing bugs through testing
+  - how to name your test methods
 - [ ] Configuring the PHPUnit test environment
  
 - [ ] Test dependencies, fixtures and exceptions
