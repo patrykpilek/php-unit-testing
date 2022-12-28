@@ -5,6 +5,7 @@
 - [ ] Unit testing with PHPUnit: the basics
   - [Installing PHPUnit](https://phpunit.de/getting-started/phpunit-9.html)
   - write and run your first test: an introduction to assertions
+  - test a function: using multiple assertions
 - [ ] Configuring the PHPUnit test environment
  
 - [ ] Test dependencies, fixtures and exceptions

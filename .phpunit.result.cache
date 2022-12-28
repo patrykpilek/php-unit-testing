@@ -1,0 +1,1 @@
+{"version":1,"defects":{"ExampleTest::testAddingTwoPlusTwoResultsInFour":3,"FunctionTest::testAddReturnsTheCorrectSum":3},"times":{"ExampleTest::testAddingTwoPlusTwoResultsInFour":0.09,"FunctionTest::testAddReturnsTheCorrectSum":0.08}}
