@@ -8,6 +8,7 @@
   - test a function: using multiple assertions
   - [List of PHPUnit assertions](https://phpunit.readthedocs.io/en/9.5/assertions.html?highlight=assertions)
   - test that incorrect results are not returned: using multiple test methods
+  - test a class: fixing bugs through testing
 - [ ] Configuring the PHPUnit test environment
  
 - [ ] Test dependencies, fixtures and exceptions
