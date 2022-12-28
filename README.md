@@ -11,7 +11,7 @@
   - test a class: fixing bugs through testing
   - how to name your test methods
 - [ ] Configuring the PHPUnit test environment
- 
+  - the PHPUnit test runner: specify different options when running tests
 - [ ] Test dependencies, fixtures and exceptions
 
 - [ ] Test doubles: mocks and stubs

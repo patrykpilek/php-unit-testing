@@ -1,0 +1,3 @@
+$ phpunit tests/UserTest
+$ phpunit tests/ --filter=testReturnsFullName
+$ phpunit tests/ --color
