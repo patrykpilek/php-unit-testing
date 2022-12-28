@@ -22,6 +22,7 @@
   - test dependencies: make one test method dependent on another
   - [Fixtures in PHPUnit](https://phpunit.readthedocs.io/en/9.5/fixtures.html?highlight=fixtures#fixtures)
   - fixtures: set up the known state of the tests using setUp and tearDown
+  - easily add a new test method using the test fixture
 - [ ] Test doubles: mocks and stubs
 
 - [ ] Mockery - an alternative mocking framework with a human-readable syntax

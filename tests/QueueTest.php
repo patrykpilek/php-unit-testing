@@ -5,17 +5,12 @@ use PHPUnit\Framework\TestCase;
 class QueueTest extends TestCase
 {
     protected $queue;
-        
+    
     protected function setUp(): void
     {
         $this->queue = new Queue;        
     }
-    
-    protected function tearDown(): void
-    {
-        unset($this->queue);
-    }
-        
+
     public function testNewQueueIsEmpty()
     {
         $this->assertEquals(0, $this->queue->getCount());
@@ -35,7 +30,15 @@ class QueueTest extends TestCase
         $item = $this->queue->pop();
         
         $this->assertEquals(0, $this->queue->getCount());
-        
+
         $this->assertEquals('green', $item);
-    }     
+    }
+    
+    public function testAnItemIsRemovedFromTheFrontOfTheQueue()
+    {
+        $this->queue->push('first');
+        $this->queue->push('second');
+        
+        $this->assertEquals('first', $this->queue->pop());
+    }    
 }
