@@ -11,7 +11,12 @@
   - test a class: fixing bugs through testing
   - how to name your test methods
 - [ ] Configuring the PHPUnit test environment
- 
+  - the PHPUnit test runner: specify different options when running tests
+  - [The PHPUnit XML Configuration file](https://phpunit.readthedocs.io/en/9.5/configuration.html?highlight=configuration)
+  - configure PHPUnit: the XML configuration file
+  - [PHP: sql_autoload_register](https://www.php.net/manual/en/function.spl-autoload-register.php)
+  - [Composer autoloading](https://getcomposer.org/doc/04-schema.md#autoload)
+  - autoload classes being tested using Composer
 - [ ] Test dependencies, fixtures and exceptions
 
 - [ ] Test doubles: mocks and stubs
