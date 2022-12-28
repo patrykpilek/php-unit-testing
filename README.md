@@ -20,6 +20,8 @@
 - [ ] Test dependencies, fixtures and exceptions
   - unit test a queue class
   - test dependencies: make one test method dependent on another
+  - [Fixtures in PHPUnit](https://phpunit.readthedocs.io/en/9.5/fixtures.html?highlight=fixtures#fixtures)
+  - fixtures: set up the known state of the tests using setUp and tearDown
 - [ ] Test doubles: mocks and stubs
 
 - [ ] Mockery - an alternative mocking framework with a human-readable syntax
