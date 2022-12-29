@@ -27,7 +27,7 @@
   - [Testing exceptions with PHPUnit](https://phpunit.readthedocs.io/en/9.5/writing-tests-for-phpunit.html?highlight=testing-exceptions#testing-exceptions)
   - testing exceptions: expecting code to throw an exception
 - [ ] Test doubles: mocks and stubs
-
+  - test doubles: create mock objects to remove dependencies on external resources
 - [ ] Mockery - an alternative mocking framework with a human-readable syntax
 
 - [ ] Test-driven development

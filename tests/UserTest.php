@@ -6,7 +6,7 @@ class UserTest extends TestCase
 {
     public function testReturnsFullName()
     {
-        $user = new User;                
+        $user = new User;
 
         $user->first_name = "Teresa";
         $user->surname = "Green";
