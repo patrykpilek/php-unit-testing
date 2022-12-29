@@ -40,6 +40,8 @@
   - [Mockery](http://docs.mockery.io/en/latest/)
   - [Mockery: PHPUnit integration](http://docs.mockery.io/en/latest/reference/phpunit_integration.html)
   - using Mockery: installation and integration with PHPUnit
+  - [Mockery: creating test doubles](http://docs.mockery.io/en/latest/reference/creating_test_doubles.html)
+  - using mockery to mock a dependency that doesn't exist yet
 - [ ] Test-driven development
 
 - [ ] Testing non-public methods and properties and abstract classes

@@ -23,6 +23,8 @@ class Order
     /**
      * Constructor
      *
+     * @param PaymentGateway $gateway Payment gateway object
+     *
      * @return void
      */
     public function __construct(PaymentGateway $gateway)
