@@ -47,7 +47,8 @@
   - [Mockery Spies](http://docs.mockery.io/en/latest/reference/spies.html)
   - Mockery Spies: make assertions on a call after the event
 - [ ] Test-driven development
-
+  - [Test-driven Development (TDD)](https://en.wikipedia.org/wiki/Test-driven_development)
+  - test-driven development: write the test first, then write the code to make it pass
 - [ ] Testing non-public methods and properties and abstract classes
 
 - [ ] Testing static methods
