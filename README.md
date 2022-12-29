@@ -34,7 +34,7 @@
   - test object interactions: verify how a dependency is used
   - [PHPUnit Test Doubles](https://phpunit.readthedocs.io/en/9.5/test-doubles.html?highlight=test-doubles)
   - customise the creation of the mock object: the getMockBuilder method
-- [ ] Mockery - an alternative mocking framework with a human-readable syntax
+- [x] Mockery - an alternative mocking framework with a human-readable syntax
   - mock a dependency that doesn't exist yet
   - [PHPUnit Test Doubles](https://phpunit.readthedocs.io/en/9.5/test-doubles.html?highlight=test-doubles)
   - [Mockery](http://docs.mockery.io/en/latest/)
@@ -44,6 +44,8 @@
   - using mockery to mock a dependency that doesn't exist yet
   - [PHPUnit Test Doubles](https://phpunit.readthedocs.io/en/9.5/test-doubles.html?highlight=test-doubles)
   - PHPUnit vs Mockery: Returning different values on subsequent method calls
+  - [Mockery Spies](http://docs.mockery.io/en/latest/reference/spies.html)
+  - Mockery Spies: make assertions on a call after the event
 - [ ] Test-driven development
 
 - [ ] Testing non-public methods and properties and abstract classes
