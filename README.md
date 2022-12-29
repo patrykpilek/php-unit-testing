@@ -35,7 +35,7 @@
   - [PHPUnit Test Doubles](https://phpunit.readthedocs.io/en/9.5/test-doubles.html?highlight=test-doubles)
   - customise the creation of the mock object: the getMockBuilder method
 - [ ] Mockery - an alternative mocking framework with a human-readable syntax
-
+  - mock a dependency that doesn't exist yet
 - [ ] Test-driven development
 
 - [ ] Testing non-public methods and properties and abstract classes
