@@ -46,8 +46,15 @@
   - PHPUnit vs Mockery: Returning different values on subsequent method calls
   - [Mockery Spies](http://docs.mockery.io/en/latest/reference/spies.html)
   - Mockery Spies: make assertions on a call after the event
-- [ ] Test-driven development
-
+- [x] Test-driven development
+  - [Test-driven Development (TDD)](https://en.wikipedia.org/wiki/Test-driven_development)
+  - test-driven development: write the test first, then write the code to make it pass
+  - write just enough code to make the test pass
+  - add tests and refactor code until the tests pass
+  - add more tests and application code functionality
+  - another test, more functionality, and more refactoring
+  - [PHPUnit Data Provider methods](https://phpunit.readthedocs.io/en/9.5/writing-tests-for-phpunit.html?highlight=data-providers#data-providers)
+  - data providers: provide a test method with a collection of data
 - [ ] Testing non-public methods and properties and abstract classes
 
 - [ ] Testing static methods
