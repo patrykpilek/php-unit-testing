@@ -51,6 +51,7 @@
   - test-driven development: write the test first, then write the code to make it pass
   - write just enough code to make the test pass
   - add tests and refactor code until the tests pass
+  - add more tests and application code functionality
 - [ ] Testing non-public methods and properties and abstract classes
 
 - [ ] Testing static methods
