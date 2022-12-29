@@ -2,7 +2,12 @@
 
 namespace App;
 
-class Article
-{
+class Article {
+
     public $title;
+    
+    public function getSlug()
+    {
+        return "";
+    }    
 }

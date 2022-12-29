@@ -49,6 +49,7 @@
 - [ ] Test-driven development
   - [Test-driven Development (TDD)](https://en.wikipedia.org/wiki/Test-driven_development)
   - test-driven development: write the test first, then write the code to make it pass
+  - write just enough code to make the test pass
 - [ ] Testing non-public methods and properties and abstract classes
 
 - [ ] Testing static methods
