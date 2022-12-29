@@ -42,6 +42,8 @@
   - using Mockery: installation and integration with PHPUnit
   - [Mockery: creating test doubles](http://docs.mockery.io/en/latest/reference/creating_test_doubles.html)
   - using mockery to mock a dependency that doesn't exist yet
+  - [PHPUnit Test Doubles](https://phpunit.readthedocs.io/en/9.5/test-doubles.html?highlight=test-doubles)
+  - PHPUnit vs Mockery: Returning different values on subsequent method calls
 - [ ] Test-driven development
 
 - [ ] Testing non-public methods and properties and abstract classes
