@@ -52,6 +52,7 @@
   - write just enough code to make the test pass
   - add tests and refactor code until the tests pass
   - add more tests and application code functionality
+  - another test, more functionality, and more refactoring
 - [ ] Testing non-public methods and properties and abstract classes
 
 - [ ] Testing static methods
