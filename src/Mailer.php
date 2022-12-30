@@ -18,7 +18,7 @@ class Mailer
      *
      * @return boolean
      */
-    public function send(string $email, string $message)
+    public static function send(string $email, string $message)
     {
         if (empty($email)) {
             throw new InvalidArgumentException;

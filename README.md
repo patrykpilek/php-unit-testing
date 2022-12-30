@@ -71,3 +71,6 @@
   - [PHPUnit Test Doubles](https://phpunit.readthedocs.io/en/9.5/test-doubles.html?highlight=test-doubles)
   - the problem with static methods: dependencies and mocking
   - option 1: refactor code to remove the static method
+  - [PHP callables](https://www.php.net/manual/en/language.types.callable.php)
+  - [PHPUnit Test Doubles](https://phpunit.readthedocs.io/en/9.5/test-doubles.html?highlight=test-doubles)
+  - option 2: pass the dependency as a callable
