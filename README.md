@@ -58,4 +58,6 @@
 - [ ] Testing non-public methods and properties and abstract classes
   - testing non-public methods
   - testing protected methods using inheritance
+  - [Reflection in PHP](https://www.php.net/manual/en/intro.reflection.php)
+  - testing private methods using reflection
 - [ ] Testing static methods
