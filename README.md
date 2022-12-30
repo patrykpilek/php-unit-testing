@@ -57,4 +57,5 @@
   - data providers: provide a test method with a collection of data
 - [ ] Testing non-public methods and properties and abstract classes
   - testing non-public methods
+  - testing protected methods using inheritance
 - [ ] Testing static methods
