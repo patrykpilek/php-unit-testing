@@ -66,4 +66,14 @@
   - [PHPUnit documentation: getMockForAbstractClass](https://phpunit.readthedocs.io/en/9.5/test-doubles.html?highlight=mocking-traits-and-abstract-classes#mocking-traits-and-abstract-classes)
   - [PHPUnit source code: getMockForAbstractClass](https://github.com/sebastianbergmann/phpunit/blob/main/src/Framework/TestCase.php)
   - testing abstract classes
-- [ ] Testing static methods
+- [x] Testing static methods
+  - testing static methods
+  - [PHPUnit Test Doubles](https://phpunit.readthedocs.io/en/9.5/test-doubles.html?highlight=test-doubles)
+  - the problem with static methods: dependencies and mocking
+  - option 1: refactor code to remove the static method
+  - [PHP callables](https://www.php.net/manual/en/language.types.callable.php)
+  - [PHPUnit Test Doubles](https://phpunit.readthedocs.io/en/9.5/test-doubles.html?highlight=test-doubles)
+  - option 2: pass the dependency as a callable
+  - [Mockery: mocking public static methods](http://docs.mockery.io/en/latest/reference/public_static_properties.html)
+  - [Mockery alias mocks](http://docs.mockery.io/en/latest/reference/creating_test_doubles.html#creating-test-doubles-aliasing)
+  - option 3: use mockery alias mocks to stub the static method call
