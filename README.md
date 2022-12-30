@@ -56,5 +56,5 @@
   - [PHPUnit Data Provider methods](https://phpunit.readthedocs.io/en/9.5/writing-tests-for-phpunit.html?highlight=data-providers#data-providers)
   - data providers: provide a test method with a collection of data
 - [ ] Testing non-public methods and properties and abstract classes
-
+  - testing non-public methods
 - [ ] Testing static methods
