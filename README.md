@@ -61,4 +61,6 @@
   - [Reflection in PHP](https://www.php.net/manual/en/intro.reflection.php)
   - testing private methods using reflection
   - testing private methods with arguments using reflection
+  - [PHPUnit Assertions](https://phpunit.readthedocs.io/en/9.5/assertions.html?highlight=assertions)
+  - testing protected and private attributes
 - [ ] Testing static methods
