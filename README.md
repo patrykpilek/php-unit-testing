@@ -60,4 +60,5 @@
   - testing protected methods using inheritance
   - [Reflection in PHP](https://www.php.net/manual/en/intro.reflection.php)
   - testing private methods using reflection
+  - testing private methods with arguments using reflection
 - [ ] Testing static methods
