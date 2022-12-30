@@ -55,7 +55,7 @@
   - another test, more functionality, and more refactoring
   - [PHPUnit Data Provider methods](https://phpunit.readthedocs.io/en/9.5/writing-tests-for-phpunit.html?highlight=data-providers#data-providers)
   - data providers: provide a test method with a collection of data
-- [ ] Testing non-public methods and properties and abstract classes
+- [x] Testing non-public methods and properties and abstract classes
   - testing non-public methods
   - testing protected methods using inheritance
   - [Reflection in PHP](https://www.php.net/manual/en/intro.reflection.php)
@@ -63,4 +63,7 @@
   - testing private methods with arguments using reflection
   - [PHPUnit Assertions](https://phpunit.readthedocs.io/en/9.5/assertions.html?highlight=assertions)
   - testing protected and private attributes
+  - [PHPUnit documentation: getMockForAbstractClass](https://phpunit.readthedocs.io/en/9.5/test-doubles.html?highlight=mocking-traits-and-abstract-classes#mocking-traits-and-abstract-classes)
+  - [PHPUnit source code: getMockForAbstractClass](https://github.com/sebastianbergmann/phpunit/blob/main/src/Framework/TestCase.php)
+  - testing abstract classes
 - [ ] Testing static methods
