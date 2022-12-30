@@ -68,3 +68,5 @@
   - testing abstract classes
 - [ ] Testing static methods
   - testing static methods
+  - [PHPUnit Test Doubles](https://phpunit.readthedocs.io/en/9.5/test-doubles.html?highlight=test-doubles)
+  - the problem with static methods: dependencies and mocking
