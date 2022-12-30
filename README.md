@@ -67,3 +67,4 @@
   - [PHPUnit source code: getMockForAbstractClass](https://github.com/sebastianbergmann/phpunit/blob/main/src/Framework/TestCase.php)
   - testing abstract classes
 - [ ] Testing static methods
+  - testing static methods
